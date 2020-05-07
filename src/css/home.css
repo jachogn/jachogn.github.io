@@ -1,0 +1,28 @@
+.socials{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 45%;
+    padding-left: 2%;
+   
+  }
+  
+  .socials  ul{
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+     
+  }
+  
+  
+  .socials li{
+    padding: 0 1rem;
+  
+  }
+  
+  
+  .socials li:hover{
+    transform: translateY(-5px);
+      size: 100;
+  }
