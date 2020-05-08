@@ -34,7 +34,7 @@ export default class Education extends React.Component{
             </div>
             <div className = "courses">
               <h1>Relevant Coursework:</h1>
-              <p>Python, Java, Parallel Programming, Data Structures and Algorithms, Discrete Math, Linear Algebra, Automata Theory, <br/> Software Development, UX/UI Design, Operating Systems, Computer Architecture</p>
+              <p>Python, Java, Parallel Programming, Data Structures and Algorithms, Discrete Math, Linear Algebra, Automata Theory, Software Development, UX/UI Design, Operating Systems, Computer Architecture</p>
             </div>
             <div className ="tags">
               <div className = "KA">

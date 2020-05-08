@@ -35,7 +35,12 @@
     color: antiquewhite;
     min-width: 100%;
     padding-left: 2%;
+    
   }
+  .courses p{
+    padding-right: 5%;
+  }
+
   .tags{
     display: flex;
     flex-direction: row;
