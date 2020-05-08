@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jachogn.github.io/static/css/main.7e9e14b2.chunk.css",
-    "main.js": "/jachogn.github.io/static/js/main.f22371ea.chunk.js",
-    "main.js.map": "/jachogn.github.io/static/js/main.f22371ea.chunk.js.map",
+    "main.css": "/jachogn.github.io/static/css/main.c9b1c054.chunk.css",
+    "main.js": "/jachogn.github.io/static/js/main.f9ef456f.chunk.js",
+    "main.js.map": "/jachogn.github.io/static/js/main.f9ef456f.chunk.js.map",
     "runtime-main.js": "/jachogn.github.io/static/js/runtime-main.fe71d2d7.js",
     "runtime-main.js.map": "/jachogn.github.io/static/js/runtime-main.fe71d2d7.js.map",
-    "static/js/2.a5661e48.chunk.js": "/jachogn.github.io/static/js/2.a5661e48.chunk.js",
-    "static/js/2.a5661e48.chunk.js.map": "/jachogn.github.io/static/js/2.a5661e48.chunk.js.map",
+    "static/js/2.bd3ca301.chunk.js": "/jachogn.github.io/static/js/2.bd3ca301.chunk.js",
+    "static/js/2.bd3ca301.chunk.js.map": "/jachogn.github.io/static/js/2.bd3ca301.chunk.js.map",
     "index.html": "/jachogn.github.io/index.html",
-    "precache-manifest.e39e7b436599ea41b1399842a5dff3d4.js": "/jachogn.github.io/precache-manifest.e39e7b436599ea41b1399842a5dff3d4.js",
+    "precache-manifest.20eada05b6db64374bc26575c896e68a.js": "/jachogn.github.io/precache-manifest.20eada05b6db64374bc26575c896e68a.js",
     "service-worker.js": "/jachogn.github.io/service-worker.js",
-    "static/css/main.7e9e14b2.chunk.css.map": "/jachogn.github.io/static/css/main.7e9e14b2.chunk.css.map",
-    "static/js/2.a5661e48.chunk.js.LICENSE.txt": "/jachogn.github.io/static/js/2.a5661e48.chunk.js.LICENSE.txt",
+    "static/css/main.c9b1c054.chunk.css.map": "/jachogn.github.io/static/css/main.c9b1c054.chunk.css.map",
+    "static/js/2.bd3ca301.chunk.js.LICENSE.txt": "/jachogn.github.io/static/js/2.bd3ca301.chunk.js.LICENSE.txt",
     "static/media/index.css": "/jachogn.github.io/static/media/3157632686_dae9096229_o (1).4dc1db31.jpg",
     "static/media/ci:cd.png": "/jachogn.github.io/static/media/ci:cd.6dc7841b.png",
     "static/media/expandi.f8bdb520.png": "/jachogn.github.io/static/media/expandi.f8bdb520.f8bdb520.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fe71d2d7.js",
-    "static/js/2.a5661e48.chunk.js",
-    "static/css/main.7e9e14b2.chunk.css",
-    "static/js/main.f22371ea.chunk.js"
+    "static/js/2.bd3ca301.chunk.js",
+    "static/css/main.c9b1c054.chunk.css",
+    "static/js/main.f9ef456f.chunk.js"
   ]
 }
