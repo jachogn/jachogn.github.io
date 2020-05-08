@@ -11,21 +11,21 @@ import './css/App.css'
 
 export const fadeTransition ={
     in:{
-        opacity:1,
+        opacity:"100%",
     },
     out:{
-        opacity:0
+        opacity:"0%",
     }
 }
 
 
 export const pageTransition = {
     in:{
-        opacity:1,
+        opacity:"100%",
         y:0
     },
     out:{
-        opacity:0,
+        opacity:"0%",
         y:"-100vh"
     }
 }
