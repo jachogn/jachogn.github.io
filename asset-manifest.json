@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jachogn.github.io/static/css/main.7e9e14b2.chunk.css",
+    "main.js": "/jachogn.github.io/static/js/main.4ac17afb.chunk.js",
+    "main.js.map": "/jachogn.github.io/static/js/main.4ac17afb.chunk.js.map",
+    "runtime-main.js": "/jachogn.github.io/static/js/runtime-main.fe71d2d7.js",
+    "runtime-main.js.map": "/jachogn.github.io/static/js/runtime-main.fe71d2d7.js.map",
+    "static/js/2.a5661e48.chunk.js": "/jachogn.github.io/static/js/2.a5661e48.chunk.js",
+    "static/js/2.a5661e48.chunk.js.map": "/jachogn.github.io/static/js/2.a5661e48.chunk.js.map",
+    "index.html": "/jachogn.github.io/index.html",
+    "precache-manifest.2eacd56554ea58d78c3f837eb41f8cc4.js": "/jachogn.github.io/precache-manifest.2eacd56554ea58d78c3f837eb41f8cc4.js",
+    "service-worker.js": "/jachogn.github.io/service-worker.js",
+    "static/css/main.7e9e14b2.chunk.css.map": "/jachogn.github.io/static/css/main.7e9e14b2.chunk.css.map",
+    "static/js/2.a5661e48.chunk.js.LICENSE.txt": "/jachogn.github.io/static/js/2.a5661e48.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/jachogn.github.io/static/media/3157632686_dae9096229_o (1).4dc1db31.jpg",
+    "static/media/ci:cd.png": "/jachogn.github.io/static/media/ci:cd.6dc7841b.png",
+    "static/media/expandi.f8bdb520.png": "/jachogn.github.io/static/media/expandi.f8bdb520.f8bdb520.png",
+    "static/media/usflogo.jpeg": "/jachogn.github.io/static/media/usflogo.ec43683b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe71d2d7.js",
+    "static/js/2.a5661e48.chunk.js",
+    "static/css/main.7e9e14b2.chunk.css",
+    "static/js/main.4ac17afb.chunk.js"
+  ]
+}
