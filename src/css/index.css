@@ -1,0 +1,14 @@
+body, html {
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+    background: url(../images/3157632686_dae9096229_o\ \(1\).jpg) no-repeat center center fixed;
+    background-color:gainsboro;
+    overflow: visible !important;
+   
+  }
+
+
+
+  

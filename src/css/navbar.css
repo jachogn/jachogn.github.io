@@ -1,0 +1,58 @@
+.Navbar {
+    width: 100%;
+    background: #eacda3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #d6ae7b, #eacda3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #d6ae7b, #eacda3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+    z-index: 2;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 40%;
+    height: 10%;
+}
+
+.Nav-Logo img{
+    max-width: 100%;
+    height: auto;
+    position: relative; 
+}
+
+.Nav{
+    display:flex;
+    height: 100%;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+.Nav-Item a{
+    font-size: 22px;
+    text-decoration: none;
+    color: #01233f;
+}
+
+.Nav-Item ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.space{
+    flex: 1;
+}
+
+.Nav-Item li{
+    font-family: cursive;
+    padding: 0 0.5rem;
+
+}
+
+
+.Nav-Item a:hover,
+.Nav-Item a:active{
+    color:#F0FFFF;
+}
