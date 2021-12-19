@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.0d5317c0.css",
+    "main.css": "./static/css/main.0fee4748.css",
     "main.js": "./static/js/main.81499bb4.js",
     "static/media/expandi.f8bdb520.png": "./static/media/expandi.f8bdb520.3d06ed931269b59bba3f.png",
     "static/media/3157632686_dae9096229_o (1).jpg": "./static/media/3157632686_dae9096229_o (1).8d7e1a3f0b1d62ae64ca.jpg",
     "static/media/ci:cd.png": "./static/media/ci:cd.d9ba431da76475e34b71.png",
     "static/media/usflogo.jpeg": "./static/media/usflogo.27cc22859e4ca1db487f.jpeg",
     "index.html": "./index.html",
-    "main.0d5317c0.css.map": "./static/css/main.0d5317c0.css.map",
+    "main.0fee4748.css.map": "./static/css/main.0fee4748.css.map",
     "main.81499bb4.js.map": "./static/js/main.81499bb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d5317c0.css",
+    "static/css/main.0fee4748.css",
     "static/js/main.81499bb4.js"
   ]
 }
